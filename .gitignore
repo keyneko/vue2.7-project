@@ -13,6 +13,7 @@ dist
 dist-ssr
 *.local
 
+/coverage/
 /cypress/videos/
 /cypress/screenshots/
 
